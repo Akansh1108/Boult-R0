@@ -1,0 +1,7 @@
+{
+  "name": "Boult R0 Screening Assistant",
+  "description": "An automated R0 screening assistant for Boult, designed to conduct initial candidate screenings. The app extracts structured candidate data from live voice or text interactions, matches against a provided Job Description, computes an overall match score, and sends results to a webhook URL for downstream processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
